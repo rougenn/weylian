@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+out/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Golang
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/vendor/
+bin/
+*.test
+
+# Секретные файлы
+.env
+*.pem
+*.key
+
+# MacOS
+.DS_Store
